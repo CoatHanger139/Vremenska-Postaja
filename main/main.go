@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"dn5/vreme"
+	"github.com/CoatHanger139/Vremenska-Postaja/vreme"
 
 	"github.com/urfave/cli/v3"
 )

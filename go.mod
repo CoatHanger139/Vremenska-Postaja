@@ -1,4 +1,4 @@
-module dn5
+module github.com/CoatHanger139/Vremenska-Postaja
 
 go 1.26.8
 
